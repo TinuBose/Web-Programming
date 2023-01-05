@@ -1,0 +1,26 @@
+#hd {
+
+    color: red;
+
+    font-family: Tahoma, sans-serif;
+    background-color: yellow;
+
+}
+
+p {
+
+    background-color: #FFC0CB;
+
+    color: blue;
+
+}
+
+.center {
+    text-align: center;
+    color: orange;
+    background-color: blue;
+}
+
+* {
+    font-style: italic;
+}
